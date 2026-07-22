@@ -1,0 +1,13 @@
+# IDE files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment/config files with sensitive info (if you create one later)
+.env
