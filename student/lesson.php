@@ -139,6 +139,7 @@ $doneMsg = isset($_GET['done']);
                 <a href="courses.php" class="sidebar-link">📚 My Courses</a>
                 <a href="progress.php" class="sidebar-link">📈 My Progress</a>
                 <a href="profile.php" class="sidebar-link">👤 My Profile</a>
+                <a href="/MyProject/courses.php" class="sidebar-link">🔍 Browse Courses</a>
                 <a href="/MyProject/logout.php" class="sidebar-link logout-link">🚪 Logout</a>
             </nav>
         </aside>
