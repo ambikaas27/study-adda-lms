@@ -22,16 +22,11 @@ A full-stack Learning Management System (LMS) built using PHP, MySQL, Bootstrap,
 
 ## Screenshots
 
-## Screenshots
-
 ### Homepage
 
 ![Homepage Top](screenshots/homepage-1.png)
 ![Homepage Features](screenshots/homepage-2.png)
 ![Homepage Footer](screenshots/homepage-3.png)
-![Homepage Footer](screenshots/homepage-4.png)
-![Homepage Footer](screenshots/homepage-5.png)
-![Homepage Footer](screenshots/homepage-6.png)
 
 ### Student Dashboard
 
@@ -52,8 +47,7 @@ A full-stack Learning Management System (LMS) built using PHP, MySQL, Bootstrap,
 
 ### Lesson Player
 
-![Lesson Player](screenshots/lesson-player-1.png)
-![Lesson Player](screenshots/lesson-player-2.png)
+![Lesson Player](screenshots/lesson-player.png)
 
 ---
 
@@ -145,10 +139,11 @@ http://localhost/study-adda-lms/
 
 ### Test Accounts
 
-| Role    | Email               | Password |
-| ------- | ------------------- | -------- |
-| Admin   | admin@studyadda.com | password |
-| Student | ambika@gmail.com    | 123456   |
+| Role       | Email               | Password |
+| ---------- | ------------------- | -------- |
+| Admin      | admin@studyadda.com | password |
+| Instructor | uma@studyadda.com   | 123456   |
+| Student    | ambika@gmail.com    | 123456   |
 
 ---
 
@@ -184,6 +179,7 @@ study-adda-lms/
 │   └── courses/
 ├── database/
 │   └── studyadda_db.sql
+├── screenshots/
 ├── index.php
 ├── about.php
 ├── courses.php
