@@ -147,42 +147,34 @@ http://localhost/study-adda-lms/
 | ---------- | ------------------- | -------- |
 | Admin      | admin@studyadda.com | password |
 | Instructor | uma@gmail.com       | 123456   |
-| Student    | ambika@gmail.com    | 123456   |
+| Student    | test@gmail.com      | 123456   |
 
----
-
-## Project Structure
-
-```text
-study-adda-lms/
-├── admin/
-│   ├── dashboard.php
-│   ├── courses.php
-│   ├── add-course.php
-│   ├── edit-course.php
-│   ├── users.php
-│   └── messages.php
+php
+│ ├── add-course.php
+│ ├── edit-course.php
+│ ├── users.php
+│ └── messages.php
 ├── instructor/
-│   ├── dashboard.php
-│   ├── my-courses.php
-│   └── manage-lessons.php
+│ ├── dashboard.php
+│ ├── my-courses.php
+│ └── manage-lessons.php
 ├── student/
-│   ├── dashboard.php
-│   ├── courses.php
-│   ├── progress.php
-│   ├── profile.php
-│   └── lesson.php
+│ ├── dashboard.php
+│ ├── courses.php
+│ ├── progress.php
+│ ├── profile.php
+│ └── lesson.php
 ├── includes/
-│   ├── header.php
-│   ├── footer.php
-│   ├── dbconfig.php
-│   └── toast.php
+│ ├── header.php
+│ ├── footer.php
+│ ├── dbconfig.php
+│ └── toast.php
 ├── css/
-│   └── style.css
+│ └── style.css
 ├── images/
-│   └── courses/
+│ └── courses/
 ├── database/
-│   └── studyadda_db.sql
+│ └── studyadda_db.sql
 ├── screenshots/
 ├── index.php
 ├── about.php
@@ -194,6 +186,7 @@ study-adda-lms/
 ├── register.php
 ├── logout.php
 └── README.md
+
 ```
 
 ---
@@ -210,3 +203,4 @@ study-adda-lms/
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+```
