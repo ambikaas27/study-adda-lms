@@ -16,7 +16,7 @@ A full-stack Learning Management System (LMS) built using PHP, MySQL, Bootstrap,
 
 ## 🔗 Live Demo
 
-> _Add your live deployment link here_
+[studyadda.infinityfreeapp.com](http://studyadda.infinityfreeapp.com)
 
 ---
 
@@ -146,7 +146,7 @@ http://localhost/study-adda-lms/
 | Role       | Email               | Password |
 | ---------- | ------------------- | -------- |
 | Admin      | admin@studyadda.com | password |
-| Instructor | uma@studyadda.com   | 123456   |
+| Instructor | uma@gmail.com       | 123456   |
 | Student    | ambika@gmail.com    | 123456   |
 
 ---
